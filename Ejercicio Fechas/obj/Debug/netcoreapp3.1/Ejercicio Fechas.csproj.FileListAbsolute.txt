@@ -1,0 +1,11 @@
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\bin\Debug\netcoreapp3.1\Ejercicio Fechas.exe
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\bin\Debug\netcoreapp3.1\Ejercicio Fechas.deps.json
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\bin\Debug\netcoreapp3.1\Ejercicio Fechas.runtimeconfig.json
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\bin\Debug\netcoreapp3.1\Ejercicio Fechas.runtimeconfig.dev.json
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\bin\Debug\netcoreapp3.1\Ejercicio Fechas.dll
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\bin\Debug\netcoreapp3.1\Ejercicio Fechas.pdb
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\obj\Debug\netcoreapp3.1\Ejercicio Fechas.csprojAssemblyReference.cache
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\obj\Debug\netcoreapp3.1\Ejercicio Fechas.AssemblyInfoInputs.cache
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\obj\Debug\netcoreapp3.1\Ejercicio Fechas.AssemblyInfo.cs
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\obj\Debug\netcoreapp3.1\Ejercicio Fechas.dll
+D:\usuarios\alumno\escritorio\Ejercicio Fechas\obj\Debug\netcoreapp3.1\Ejercicio Fechas.pdb
